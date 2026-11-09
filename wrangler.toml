@@ -1,10 +1,10 @@
-name = "GitHub仓库名"
+name = "nextcf"
 main = "_worker.js"
 compatibility_date = "2024-11-01"
 
 [vars]
-L = "你的登录路径"
+L = "admin"
 
 [[kv_namespaces]]
 binding = "K"
-id = "你的KV空间ID"
+id = "612301e6e79e45ca8d504dcdb6f46d04"
